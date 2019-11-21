@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "owner": "Marco",
+    "sendText": "Send",
+    "inputText": "New ToDo …",
+    "colorHeader": "#ccc",
+    "colorHeaderText": "#777",
+    "colorBG": "#aaa",
+    "colorSendBtn": "#eee",
+    "colorText": "#fff"
+  },
+  "toDo": [
+    {
+      "title": "Abwasch",
+      "done": false
+    },
+    {
+      "title": "Faulenzen",
+      "done": true
+    },
+    {
+      "title": "Hausaufgaben",
+      "done": false
+    },
+    {
+      "title": "Einkaufen",
+      "done": false
+    }
+  ]
+}
